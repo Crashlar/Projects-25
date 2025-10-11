@@ -7,3 +7,5 @@ c.java
 c.class
 Quotes/database/__pycache__/db_utils.cpython-313.pyc
 Quotes/config/__pycache__/config.cpython-313.pyc
+Package-predict-web/app.py
+Package-predict-web/__pycache__/model.cpython-313.pyc
